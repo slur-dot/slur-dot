@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ghibli Premium Banner](./github_banner.jpg)
+![Ghibli Animated Banner](https://i.pinimg.com/originals/05/dd/c0/05ddc00e120da3dbb07cf03cb478f793.gif)
 
 <br/>
 
@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/slur-dot">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=22&pause=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=Systems+Architecture.;Hardware-Accelerated+AI.;Distributed+State+Machines.;Immutable+Infrastructure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=22&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=Systems+Architecture.;Hardware-Accelerated+AI.;Distributed+State+Machines.;Immutable+Infrastructure." alt="Typing SVG" />
 </a>
 
 **Transforming mathematical theory into highly-available digital infrastructure.**
@@ -23,15 +23,15 @@
 
 ---
 
-### ✦ The Architecture
+### The Architecture
 
 I build systems that scale. No noise, just execution. My focus is on bridging traditional full-stack paradigms with hardware-accelerated machine learning and decentralized protocols. If it requires resolving severe architectural bottlenecks, managing distributed task queues, or maintaining 60fps across millions of data points—that's where I operate.
 
-Currently exploring **custom RAG pipelines**, **CUDA tensor routing**, and **zero-knowledge environments**.
+Currently exploring <span style="color: #FFD700;">custom RAG pipelines</span>, <span style="color: #FFD700;">CUDA tensor routing</span>, and <span style="color: #FFD700;">zero-knowledge environments</span>.
 
 <br/>
 
-### ✦ The Arsenal
+### The Arsenal
 
 *Precision tools for high-performance execution.*
 
@@ -51,15 +51,15 @@ Currently exploring **custom RAG pipelines**, **CUDA tensor routing**, and **zer
 
 ---
 
-### ✦ Operating Principles
+### Operating Principles
 
-01. **State is a Liability.** Minimize mutable state. Enforce strict, deterministic data flow.
-02. **Scale by Default.** Architect for high concurrency from day one. Anticipate the bottlenecks.
-03. **Aesthetics Matter.** Beautiful code produces beautiful infrastructure. Never compromise on UX.
+01. <strong style="color: #FFD700;">State is a Liability.</strong> Minimize mutable state. Enforce strict, deterministic data flow.
+02. <strong style="color: #FFD700;">Scale by Default.</strong> Architect for high concurrency from day one. Anticipate the bottlenecks.
+03. <strong style="color: #FFD700;">Aesthetics Matter.</strong> Beautiful code produces beautiful infrastructure. Never compromise on UX.
 
 <br/>
 
-### ✦ Atmosphere
+### Atmosphere
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/slur-dot/slur-dot/master/serene_sky.svg" width="100%" alt="Serene Animated Night Sky" />
@@ -69,5 +69,5 @@ Currently exploring **custom RAG pipelines**, **CUDA tensor routing**, and **zer
 <br/>
 
 <div align="center">
-  <p style="color: #00F0FF; font-size: 14px; letter-spacing: 2px; font-weight: bold;">BUILD // MEASURE // LEARN</p>
+  <p style="color: #FFD700; font-size: 14px; letter-spacing: 2px; font-weight: bold;">BUILD // MEASURE // LEARN</p>
 </div>
