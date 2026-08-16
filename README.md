@@ -1,6 +1,6 @@
 <div align="center">
 
-![Empty Ghibli GitHub Profile Banner](./github_banner.jpg)
+![Empty Ghibli GitHub Profile Banner](https://raw.githubusercontent.com/slur-dot/slur-dot/master/github_banner.jpg)
 
 <br/>
 
