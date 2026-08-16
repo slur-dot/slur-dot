@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ghibli Animated Banner](https://media.tenor.com/FwT9Ff2bW98AAAAC/spirited-away-train.gif)
+![Ghibli Premium Banner](https://raw.githubusercontent.com/slur-dot/slur-dot/master/github_banner.jpg)
 
 <br/>
 
