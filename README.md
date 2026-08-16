@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ghibli Animated Banner](https://i.pinimg.com/originals/05/dd/c0/05ddc00e120da3dbb07cf03cb478f793.gif)
+![Ghibli Animated Banner](https://media.giphy.com/media/l41YcGT5ShJa0nCM0/giphy.gif)
 
 <br/>
 
