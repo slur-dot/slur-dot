@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ghibli Animated Banner](https://media.giphy.com/media/l41YcGT5ShJa0nCM0/giphy.gif)
+![Ghibli Animated Banner](https://media.tenor.com/FwT9Ff2bW98AAAAC/spirited-away-train.gif)
 
 <br/>
 
