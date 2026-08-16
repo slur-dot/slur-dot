@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <style>
+    .bg { fill: #0D1117; }
+    .text { font-family: 'Courier New', monospace; fill: #2E8B57; font-size: 16px; font-weight: bold; }
+    .cursor { fill: #2E8B57; animation: blink 1s step-end infinite; }
+    .line { clip-path: url(#type-mask); }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes typing { 0% { width: 0; } 100% { width: 800px; } }
+    .type-rect { animation: typing 4s steps(60, end) infinite alternate; }
+  </style>
+  <rect class="bg" width="800" height="200" rx="10" />
+  
+  <circle cx="20" cy="20" r="6" fill="#FF5F56" />
+  <circle cx="40" cy="20" r="6" fill="#FFBD2E" />
+  <circle cx="60" cy="20" r="6" fill="#27C93F" />
+  
+  <clipPath id="type-mask">
+    <rect class="type-rect" x="0" y="0" width="800" height="200" />
+  </clipPath>
+
+  <g class="line">
+    <text x="20" y="70" class="text">> INITIATING SYSTEM ARCHITECTURE...</text>
+    <text x="20" y="100" class="text">> MOUNTING DISTRIBUTED VOLUMES...</text>
+    <text x="20" y="130" class="text">> ESTABLISHING SECURE PROTOCOLS...</text>
+    <text x="20" y="160" class="text">> ACCESS GRANTED. <tspan class="cursor">█</tspan></text>
+  </g>
+</svg>

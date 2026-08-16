@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fffBE6" stop-opacity="1"/>
+      <stop offset="30%" stop-color="#fffBE6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#2E8B57" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="1" />
+    </filter>
+  </defs>
+  <style>
+    .bg { fill: #0D1117; }
+    .star { fill: #ffffff; animation: twinkle 3s infinite ease-in-out alternate; }
+    .star2 { fill: #ffffff; animation: twinkle 4s infinite ease-in-out alternate-reverse; }
+    .star3 { fill: #ffffff; animation: twinkle 2.5s infinite ease-in-out alternate; }
+    .star4 { fill: #ffffff; animation: twinkle 5s infinite ease-in-out alternate-reverse; }
+    @keyframes twinkle { 
+      0% { opacity: 0.1; transform: scale(0.8); } 
+      100% { opacity: 1; transform: scale(1.3); } 
+    }
+    @keyframes float { 
+      0% { transform: translateY(0px); } 
+      50% { transform: translateY(-6px); } 
+      100% { transform: translateY(0px); } 
+    }
+    .moon { animation: float 8s ease-in-out infinite; }
+  </style>
+  
+  <rect class="bg" width="800" height="200" rx="10" />
+  
+  <!-- Twinkling Stars -->
+  <circle class="star" cx="80" cy="40" r="1.5" />
+  <circle class="star2" cx="150" cy="120" r="1" />
+  <circle class="star3" cx="220" cy="50" r="2" />
+  <circle class="star4" cx="300" cy="160" r="1.5" />
+  <circle class="star" cx="350" cy="30" r="1" />
+  <circle class="star2" cx="480" cy="60" r="2" />
+  <circle class="star3" cx="550" cy="140" r="1.5" />
+  <circle class="star4" cx="620" cy="40" r="1" />
+  <circle class="star" cx="710" cy="90" r="2" />
+  <circle class="star2" cx="760" cy="160" r="1.5" />
+  <circle class="star3" cx="40" cy="150" r="2" />
+  <circle class="star4" cx="200" cy="180" r="1" />
+  <circle class="star" cx="680" cy="30" r="1.5" />
+  
+  <!-- Floating Glowing Moon -->
+  <g class="moon">
+    <circle cx="400" cy="100" r="50" fill="url(#moonGlow)" />
+    <circle cx="400" cy="100" r="16" fill="#FFFFFF" filter="url(#blur)" />
+    <circle cx="400" cy="100" r="14" fill="#FFFFFF" />
+  </g>
+</svg>
