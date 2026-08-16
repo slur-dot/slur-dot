@@ -71,33 +71,26 @@ Currently exploring custom RAG pipelines, CUDA tensor routing, and zero-knowledg
 
 ---
 
-### 🎮 The Game (Contribution Snake)
+### Operating Principles
 
-*A living record of my execution, visualized as a game of Snake eating my contributions.*
-
-<div align="center">
-  <!-- Note: You will need to set up the 'snk' GitHub Action to generate this SVG automatically! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slur-dot/slur-dot/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slur-dot/slur-dot/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slur-dot/slur-dot/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+01. **State is a Liability.** Minimize mutable state. Enforce strict, deterministic data flow.
+02. **Scale by Default.** Architect for high concurrency from day one. Anticipate the bottlenecks.
+03. **Aesthetics Matter.** Beautiful code produces beautiful infrastructure. Never compromise on UX.
 
 <br/>
 
 ---
 
-### Telemetry
+### Current Trajectory
 
-<div align="center">
-  <a href="https://github.com/slur-dot">
-    <img src="https://github-readme-stats.vercel.app/api?username=slur-dot&show_icons=true&theme=transparent&hide_border=true&title_color=2E8B57&text_color=808080&icon_color=2E8B57&bg_color=00000000" alt="GitHub Stats" />
-  </a>
-</div>
+Actively researching and implementing advanced patterns in:
+* **Hardware-Accelerated Inference:** Optimizing local VRAM usage for dynamic LLM weights.
+* **Zero-Knowledge Environments:** Exploring cryptographic proofs for trustless backend verification.
+* **High-Frequency Architectures:** Pushing the limits of Node.js event loops and Rust integrations.
 
 <br/>
+<br/>
+
 <div align="center">
-  <p style="color: #666; font-style: italic;">"Inspiration unlocks the future." — Hayao Miyazaki</p>
-  <p style="color: #666; font-family: monospace;">// End of transmission.</p>
+  <p style="color: #555; font-size: 14px; letter-spacing: 2px;">BUILD / MEASURE / LEARN</p>
 </div>
